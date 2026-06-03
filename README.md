@@ -12,7 +12,7 @@ My work sits at the intersection of education, technology, and product developme
 
 ---
 
-## 🚀 Currently Building
+## Currently Building
 
 ### AlignPlay
 A standards-aligned educational gaming platform focused on making learning more engaging for students and easier to implement for educators.
@@ -25,7 +25,7 @@ A product studio focused on building software, websites, mobile applications, an
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 - Launching AlignPlay
 - Expanding product development through Grit & Flow Labs
@@ -34,7 +34,7 @@ A product studio focused on building software, websites, mobile applications, an
 
 ---
 
-## 💡 Areas of Interest
+## Areas of Interest
 
 - Educational Technology
 - Software Engineering
@@ -46,7 +46,7 @@ A product studio focused on building software, websites, mobile applications, an
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 TypeScript • Flutter • Dart • Firebase • React • Next.js • Node.js • SQL
 
