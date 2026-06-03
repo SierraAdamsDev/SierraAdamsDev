@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="github-banner.png" width="100%" />
+</p>
+
 # Sierra Adams
 
 Founder of Grit & Flow Labs
