@@ -4,7 +4,7 @@
 
 # Sierra Adams
 
-Founder of Grit & Flow Labs
+Founder of Grit & Flow Labs and AlignPlay
 
 I build software, educational products, and digital tools designed to solve real-world problems.
 
