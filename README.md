@@ -8,7 +8,7 @@ Founder of Grit & Flow Labs and AlignPlay
 
 I build software, educational products, and digital tools designed to solve real-world problems.
 
-My work sits at the intersection of education, technology, and product development. As an Engineering Educator and founder, I'm interested in creating products that are practical, accessible, and genuinely useful.
+My work sits at the intersection of education, technology, and product development. As an engineering educator and founder, I'm interested in creating products that are practical, accessible, and genuinely useful.
 
 ---
 
